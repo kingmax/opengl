@@ -1,5 +1,5 @@
 # myOpenGL
-learning opengl
+LearnOpenGL
 
 https://learnopengl.com/
 https://github.com/JoeyDeVries/LearnOpenGL
