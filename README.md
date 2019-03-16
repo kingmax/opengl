@@ -1,5 +1,6 @@
-# LearnOpenGL
-LearnOpenGL
+# Learn OpenGL
+/d/git/openGL
+win10 + vs2017 (10.0.17763.0)
 
 https://learnopengl.com/
 https://github.com/JoeyDeVries/LearnOpenGL
