@@ -82,8 +82,8 @@
     <LibraryPath>D:\git\learnopengl\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\git\learnopengl\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\git\learnopengl\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\git\opengl\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\git\opengl\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
