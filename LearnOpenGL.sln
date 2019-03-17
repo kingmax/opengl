@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnOpenGL", "LearnOpenGL.vcxproj", "{391BEF03-41BE-45AE-818D-55A50D22F14D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "000_Test", "LearnOpenGL.vcxproj", "{391BEF03-41BE-45AE-818D-55A50D22F14D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_CreateWindow", "001_CreateWindow\001_CreateWindow.vcxproj", "{53E3635B-ABA4-40F9-B444-18282A8431A4}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloTexture", "helloTexture\helloTexture.vcxproj", "{CEFAE9D6-4BEB-432E-8F61-FB9FB18B2E5B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_HelloTexture", "004_HelloTexture\004_HelloTexture.vcxproj", "{4063213B-E7CF-4D8E-840D-69CE2CEFE2F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_Transform", "005_Transform\005_Transform.vcxproj", "{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{4063213B-E7CF-4D8E-840D-69CE2CEFE2F6}.Release|x64.Build.0 = Release|x64
 		{4063213B-E7CF-4D8E-840D-69CE2CEFE2F6}.Release|x86.ActiveCfg = Release|Win32
 		{4063213B-E7CF-4D8E-840D-69CE2CEFE2F6}.Release|x86.Build.0 = Release|Win32
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Debug|x64.ActiveCfg = Debug|x64
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Debug|x64.Build.0 = Debug|x64
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Debug|x86.Build.0 = Debug|Win32
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Release|x64.ActiveCfg = Release|x64
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Release|x64.Build.0 = Release|x64
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Release|x86.ActiveCfg = Release|Win32
+		{0247BBF4-4BF1-4A05-86ED-34C0EE6C644F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
